@@ -1,0 +1,14 @@
+:root {
+  --dark-neutral172b4d: rgba(23, 43, 77, 1);
+  --mid-neutral7a869a: rgba(122, 134, 154, 1);
+  --dark-neutral253858: rgba(37, 56, 88, 1);
+  --neutral-light-white: rgba(255, 255, 255, 1);
+  --dark-neutral091e42: rgba(9, 30, 66, 1);
+  --light-neutralffffff: rgba(255, 255, 255, 1);
+  --light-neutraldfe1e6: rgba(223, 225, 230, 1);
+  --light-neutralfafbfc: rgba(250, 251, 252, 1);
+  --light-neutralf4f5f7: rgba(244, 245, 247, 1);
+  --secondary-655-4c-0: rgba(101, 84, 192, 1);
+  --mid-neutral505f79: rgba(80, 95, 121, 1);
+  --primary-1: rgba(40, 131, 243, 1);
+}
